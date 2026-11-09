@@ -63,12 +63,12 @@ No utilices librerias externas y valida que las notas esten entre 0 y 20.
 
 | Criterio | Cumple |
 |----------|--------|
-| Registra estudiantes | Por verificar |
-| Calcula el promedio de tres notas | Por verificar |
-| Muestra aprobado o desaprobado | Por verificar |
-| Valida notas entre 0 y 20 | Por verificar |
-| Explica primero la estructura | Por verificar |
-| No utiliza librerias externas | Por verificar |
+| Registra estudiantes | Si |
+| Calcula el promedio de tres notas | Si |
+| Muestra aprobado o desaprobado | Si |
+| Valida notas entre 0 y 20 | Si |
+| Explica primero la estructura | Si |
+| No utiliza librerias externas | Si |
 
 ## Errores que evite
 
