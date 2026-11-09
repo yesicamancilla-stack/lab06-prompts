@@ -9,8 +9,8 @@ Herramienta de IA usada: ChatGPT
 
 | Texto | Caracteres | Tokens |
 |-------|------------|--------|
-| Los estudiantes programan en Java. | 35 | 7 |
-| The students program in Java. | 30 | 6 |
+| Los estudiantes programan en Java. | 34 | 7 |
+| The students program in Java. | 29 | 6 |
 | desafortunadamente | 18 | 4 |
 
 
