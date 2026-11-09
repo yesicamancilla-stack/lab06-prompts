@@ -15,7 +15,7 @@ Crea un programa en Java para registrar estudiantes.
 
 **Por que:** Queria comprobar que programa generaba la IA sin darle muchos detalles.
 
-**Resultado:** La IA creo un registro de estudiantes con codigo, nombre, edad y carrera, pero no calculaba notas.
+**Resultado:**  La IA generó un código más completo que calcula el promedio, determina si el estudiante aprobó o desaprobó y valida que las notas estén entre 0 y 20. También explicó la estructura antes de mostrar el código.
 
 ## Version 2
 
